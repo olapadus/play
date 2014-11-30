@@ -6,3 +6,5 @@ master
 5
 6
 master new line
+br1 new line
+br1 new line 2
