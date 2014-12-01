@@ -7,3 +7,4 @@ master
 6
 master new line
 master 2
+master2 new line
